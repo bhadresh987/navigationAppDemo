@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home">
+
+    </item>
+    <item
+        android:id="@+id/move"
+        android:icon="@drawable/ic_baseline_move_to_inbox_24"
+        android:title="Move">
+
+    </item>
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="User">
+
+    </item>
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        android:title="Camera">
+
+    </item>
+    <item
+        android:id="@+id/send"
+        android:icon="@drawable/ic_baseline_send_24"
+        android:title="Send">
+
+    </item>
+</menu>
